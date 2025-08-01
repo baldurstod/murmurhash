@@ -1,0 +1,25 @@
+{
+  "name": "murmurhash",
+  "version": "0.0.1",
+  "description": "Murmurhash  typeScript implementation",
+  "main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldurstod/murmurhash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baldurstod/murmurhash/issues"
+  },
+  "homepage": "https://github.com/baldurstod/murmurhash#readme",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^12.1.4",
+    "rollup": "^4.46.2",
+    "tslib": "^2.8.1",
+    "typescript": "^5.9.2"
+  }
+}
