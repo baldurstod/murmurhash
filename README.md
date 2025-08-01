@@ -1,0 +1,2 @@
+# murmurhash
+Murmurhash  typeScript implementation
